@@ -1,2 +1,17 @@
-# -Asma-Automation-Lab
-Asma Automation Lab is a collection of intelligent automation workflows built using n8n, AI agents, and modern integration tools. It focuses on scalable process automation, API integrations, and smart workflow orchestration designed to improve efficiency, optimize digital operations, and showcase practical automation engineering skills. 🚀
+🤖 Asma Automation Lab
+
+Welcome to Asma Automation Lab — a dedicated space for designing, building, and experimenting with intelligent automation workflows.
+
+This repository contains automation systems created using tools like:
+
+n8n
+
+Agent-based frameworks
+
+Zapier
+
+AI workflow orchestration tools
+
+Custom backend automation scripts
+
+The focus is on creating scalable, efficient, and real-world automation solutions that simplify processes, integrate platforms, and enhance productivity.
